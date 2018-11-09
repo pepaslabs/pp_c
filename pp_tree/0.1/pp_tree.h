@@ -1,7 +1,7 @@
 /*
 
 pp_tree.h: a trivial binary tree implementation.
-See https://github.com/pepaslabs/pp-c
+See https://github.com/pepaslabs/pp_c
 
 Copyright (c) 2018 Jason Pepas
 Released under the terms of the MIT License.
