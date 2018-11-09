@@ -1,7 +1,7 @@
 #include <stdlib.h>
 
 #define PP_TREE_IMPLEMENTATION
-#include "../pp_tree.h"
+#include "pp_tree.h"
 
 int main() {
 
