@@ -1,3 +1,0 @@
-pp_tree
-0.1
-https://raw.githubusercontent.com/pepaslabs/pp_c/master/pp_tree/0.1/pp_tree.h
