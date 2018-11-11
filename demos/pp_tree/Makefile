@@ -4,4 +4,4 @@ demo: pp_tree_demo.c pp_tree.h
 clean:
 	rm -f demo
 
-.PHONY: deps clean
+.PHONY: clean
